@@ -791,4 +791,6 @@
   <!-- Add all tracked DU/AOSP repos -->
   <include name="q10x_default.xml" />
 
+  <!-- Device Repos-->
+  <include name="device.xml" />
 </manifest>
