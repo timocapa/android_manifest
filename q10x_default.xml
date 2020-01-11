@@ -14,6 +14,11 @@
            revision="q10x"
            fetch="https://github.com/DirtyUnicorns/" />
 
+  <!-- Me -->
+  <remote  name="timo"
+           revision="q10x"
+           fetch="https://github.com/timocapa/" />
+
   <!-- DU REPOS -->
 
   <!-- General -->
@@ -34,7 +39,7 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
   <project path="development" name="android_development" remote="du" />
-  <project path="manifest" name="android_manifest" remote="du" />
+  <project path="manifest" name="android_manifest" remote="timo" />
   <project path="platform_testing" name="android_platform_testing" remote="du" />
 
   <!-- External -->
