@@ -48,13 +48,13 @@
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="android_frameworks_av" remote="du" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="du" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="timo" />
   <project path="frameworks/native" name="android_frameworks_native" remote="du" />
   <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="du" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="du" />
 
   <!-- Hardware -->
-  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="du" />
+  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="timo" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="du" />
   <project path="hardware/ril" name="android_hardware_ril" remote="du" />
   <project path="hardware/qcom-caf/common" name="android_hardware_qcom-caf_common" remote="du" >
@@ -75,7 +75,7 @@
   <project path="packages/apps/EmergencyInfo" name="android_packages_apps_EmergencyInfo" remote="du" />
   <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="du" />
   <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="du" />
-  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="du" />
+  <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="timo" />
   <project path="packages/apps/SettingsIntelligence" name="android_packages_apps_SettingsIntelligence" remote="du" />
   <project path="packages/apps/Traceur" name="android_packages_apps_Traceur" remote="du" />
   <project path="packages/apps/WallpaperPicker2" name="android_packages_apps_WallpaperPicker2" remote="du" />
