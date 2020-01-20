@@ -75,6 +75,6 @@
 
   <project path="external/json-c" name="platform_external_json-c" remote="caf" revision="refs/tags/LA.UM.7.2.r2-04200-8x98.0" />
   <project path="external/libbfqio" name="android_external_libbfqio" remote="pd" revision="ten" />
-  <project path="vendor/customization/google" name="vendor_google_customization" remote="pe" revision="ten" />
+  <project path="vendor/google/customization" name="vendor_google_customization" remote="pe" revision="ten" />
 
 </manifest>
