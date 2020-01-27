@@ -55,7 +55,7 @@
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="du" />
 
   <!-- Hardware -->
-  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="timo" />
+  <project path="hardware/libhardware" name="android_hardware_libhardware" remote="du" />
   <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="du" />
   <project path="hardware/ril" name="android_hardware_ril" remote="du" />
   <project path="hardware/qcom-caf/common" name="android_hardware_qcom-caf_common" remote="du" >
