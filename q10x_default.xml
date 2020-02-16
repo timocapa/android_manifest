@@ -71,6 +71,7 @@
   <!-- Packages -->
   <project path="packages/apps/Bluetooth" name="android_packages_apps_Bluetooth" remote="du" />
   <project path="packages/apps/DocumentsUI" name="android_packages_apps_DocumentsUI" remote="du" />
+  <project path="packages/apps/DU-Changelog" name="android_packages_apps_DU-Changelog" remote="du" />
   <project path="packages/apps/DU-Themes" name="android_packages_apps_DU-Themes" remote="du" />
   <project path="packages/apps/DU-Tweaks" name="android_packages_apps_DU-Tweaks" remote="du" />
   <project path="packages/apps/EmergencyInfo" name="android_packages_apps_EmergencyInfo" remote="du" />
@@ -81,6 +82,7 @@
   <project path="packages/apps/WallpaperPicker2" name="android_packages_apps_WallpaperPicker2" remote="du" />
   <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="du" />
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="du" />
+  <project path="packages/wallpapers/LivePicker" name="android_packages_wallpapers_LivePicker" remote="du" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/build-tools" name="android_prebuilts_build-tools" remote="du" />
